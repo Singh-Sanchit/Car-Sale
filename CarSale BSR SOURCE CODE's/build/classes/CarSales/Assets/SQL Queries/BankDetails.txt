@@ -1,0 +1,9 @@
+INSERT INTO `BankDetails`(`Username`, `Password`, `Amount`, `CardNumber`, `CVV`, `A`, `C`, `D`, `E`, `P`) VALUES ('Sanchit','9869505118','1000000',123456780,220,28,32,24,21,03);
+
+INSERT INTO `BankDetails`(`Username`, `Password`, `Amount`, `CardNumber`, `CVV`, `A`, `C`, `D`, `E`, `P`) VALUES ('Buddhghosh','9322440522','150000',123456781,221,28,32,24,21,04);
+
+INSERT INTO `BankDetails`(`Username`, `Password`, `Amount`, `CardNumber`, `CVV`, `A`, `C`, `D`, `E`, `P`) VALUES ('Ravikant','9029986750','1500000',123456782,222,28,32,24,21,05);
+
+INSERT INTO `BankDetails`(`Username`, `Password`, `Amount`, `CardNumber`, `CVV`, `A`, `C`, `D`, `E`, `P`) VALUES ('Nilesh','8421536700','2100000',123456783,223,28,32,24,21,06);
+
+INSERT INTO `BankDetails`(`Username`, `Password`, `Amount`, `CardNumber`, `CVV`, `A`, `C`, `D`, `E`, `P`) VALUES ('Anirudh','9987732177','5500000',123456784,224,28,32,24,21,07);
